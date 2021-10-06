@@ -1,30 +1,14 @@
 ## Welcome to Hassan's site, Labbaik
 
-**Tum bachpan se chawal ho ya ab hui ho? **
+Tum bachpan se chawal ho ya ab hui ho? 
 
-**Btw url/search address k agay site/ likhke enter karo **
-.
-..
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-**Bs itna hi tha. Itni achi nhi ho k ghazalein likhun :P **
+Btw url/search address k agay site/ likhke enter karo 
 
 You can use the [editor on GitHub](https://github.com/HassanKhan16/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Bs itna hi tha. Itni achi nhi ho k ghazalein likhun :P 
 
 ### Markdown
 
