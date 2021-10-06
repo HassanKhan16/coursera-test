@@ -1,32 +1,24 @@
 ## Welcome to Hassan's site, Labbaik
 
-**Tum bachpan se chawal ho ya ab hui ho? 
-Btw url/search address k agay site/ likhke enter karo **
+**Tum bachpan se chawal ho ya ab hui ho? **
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Btw url/search address k agay site/ likhke enter karo **
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 **Bs itna hi tha. Itni achi nhi ho k ghazalein likhun :P **
 
